@@ -1,4 +1,4 @@
-# Task 1
+#  Task 1
 name = 'Petro'
 day = 'Tuesday'
 print(f'Good day {name}! {day.upper()} is a perfect day to learn some python.')
